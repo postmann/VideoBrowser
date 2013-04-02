@@ -3,7 +3,10 @@ VideoBrowser
 
 A tiny browser for videos stored on your local disc. Created especially for slow and old computers.
 
+![Screenshot of VideoBrowser](http://www.difficultdecisions.de/wp-content/uploads/2010/06/videobrowser.png)
+
 Dependencies
+------------
 
 * a Video-Player of your choice (Totem is used by default)
 * ffmpeg (for thumbnails)
